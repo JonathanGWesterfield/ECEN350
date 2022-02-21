@@ -1,6 +1,6 @@
-#ECEN 350
+# ECEN 350
 
-All work this Computer Architecture class is in ARMv8. 
+All work this for this Computer Architecture class is in LEGv8, a teaching subset language of ARMv8. 
 
 We switched from MIPS to ARMv8 a semester ago so this is some really fresh 
 new material.
